@@ -1,7 +1,7 @@
 numpy needs to be installed
 
 Run the program in command line.
-Multiple files can be given as arguments, separated with space
+Multiple files can be given as arguments, separated with space.
 
 python main.py {filename}
 
